@@ -1,0 +1,14 @@
+body {
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    background-color: pink;
+    text-align: center;
+    padding: 8px;
+}
+
+li {
+    display: inline;
+    padding: 0px 8px;
+}
